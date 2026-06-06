@@ -1,0 +1,8 @@
+interface:
+  display_name: "MSX research ppt"
+  short_description: "Evidence-chain Chinese research PPT"
+  brand_color: "#083578"
+  default_prompt: "Use $msx-research-ppt to turn my research materials into a high-level Chinese scientific defense PPT."
+
+policy:
+  allow_implicit_invocation: true
